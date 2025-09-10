@@ -14,3 +14,9 @@ createRoot(document.getElementById('root')).render(
 )`
 
 5. `npm install bip39 `
+
+
+
+
+refrence from 
+**https://github.com/keshav-exe/projekt-kosh**
